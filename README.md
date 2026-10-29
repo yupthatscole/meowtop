@@ -19,27 +19,18 @@ his name is tuft. he's not very nice.
 - he falls asleep when he's bored
 - a button specifically for making him insult your computer
 
-## downloads
+## running meowtop
 
-check the [releases](../../releases) tab for the latest version.
+currently windows only. no exe download for now because windows defender thinks my cat is a trojan.
 
-currently windows only.
-
-if you don't trust random executables from github (fair enough), you can look through the source code or run it yourself.
-
-## running from source
-
-you'll need python 3.10+ and these libraries:
+you'll need python installed.
 
 ```bash
-pip install PyQt6 psutil
-```
-
-download the source files, make sure `tuft-sprites.png` is in the same folder as `main.py`, then run:
-
-```bash
+pip install -r requirements.txt
 python main.py
 ```
+
+make sure `tuft-sprites.png` is in the same folder as `main.py`.
 
 ## why did i make this
 
