@@ -21,6 +21,7 @@ his name is tuft. he's not very nice.
 
 ## running meowtop
 
+
 currently windows only. no exe download for now because windows defender thinks my cat is a trojan.
 
 you'll need python installed.
@@ -48,6 +49,10 @@ very productive.
 - some system processes might not be accessible without administrator permissions
 - the disk percentage shows storage space used, not disk activity
 - tuft's opinions do not reflect those of the developer (usually)
+
+<img width="1918" height="1076" alt="Screenshot 2026-10-29 163635" src="https://github.com/user-attachments/assets/787bcca6-e8ec-475b-95a1-297b9d75e8a1" />
+<img width="1078" height="764" alt="image" src="https://github.com/user-attachments/assets/1d79c692-9c58-4d21-9f2b-89099c7a61e8" />
+
 
 made with python, pyqt6, and psutil.
 
