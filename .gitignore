@@ -1,0 +1,7 @@
+.venv/
+.venv-clean/
+__pycache__/
+build/
+dist/
+*.spec
+.idea/
